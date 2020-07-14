@@ -82,7 +82,6 @@ class Autoload extends \CodeIgniter\Config\AutoloadConfig
 
 		unset($psr4, $classmap);
 	}
-
 	//--------------------------------------------------------------------
 
 }
